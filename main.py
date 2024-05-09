@@ -8,8 +8,8 @@ from twilio.rest import Client
 # Twilio credentials (Removed for security purposes)
 account_sid = 'YOUR_ACCOUNT_SID'
 auth_token = 'YOUR_AUTH_TOKEN'
-twilio_phone_number = '+19145024040'
-your_phone_number = '+918919885377'
+twilio_phone_number = 'ADD'
+your_phone_number = 'ADD'
 
 # Load known face encodings and their corresponding names
 known_face_encodings = []
@@ -61,8 +61,8 @@ while True:
             # Send SMS using Twilio
             # message = client.messages.create(
             #     body='Intruder detected!',
-            #     from_='+19145024040',
-            #     to='+918919885377'
+            #     from_='ADD',
+            #     to='ADD'
             # )
 
         # Display the name of the recognized face
