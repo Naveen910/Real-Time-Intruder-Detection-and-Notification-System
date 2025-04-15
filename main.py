@@ -16,7 +16,7 @@ known_face_encodings = []
 known_face_names = []
 
 # Load known faces and encode them
-known_faces_dir = "D:/Desktop/MAJOR PROJECT/Faces"  # Replace with your directory containing known faces
+known_faces_dir = "  "  # Replace with your directory containing known faces
 
 for filename in os.listdir(known_faces_dir):
     if filename.endswith(".jpg") or filename.endswith(".png"):
