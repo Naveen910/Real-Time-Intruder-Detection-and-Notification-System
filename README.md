@@ -1,7 +1,7 @@
 
 # 🚨 Real-Time Intruder Detection and Notification System
 
-A smart security system using **face recognition** and **real-time notifications** to detect unknown intruders and alert the homeowner via **SMS** and a loud **audio beep**.
+A smart security system using **Computer Vision,** **face recognition** and **real-time notifications** to detect unknown intruders and alert the homeowner via **SMS** and a loud **audio beep**.
 
 ---
 
